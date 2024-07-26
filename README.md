@@ -1,29 +1,15 @@
-# sample_todolist
+# Sample_Todo-List
+This project focuses on learning how to create todo-list with Vue framework, covering basic design with Daisy UI.
 
-This template should help get you started developing with Vue 3 in Vite.
+## Tech Stack
 
-## Recommended IDE Setup
+✔️ HTML CSS JS 
+✔️ Vue with Pinia
+✔️ Tailwind and Daisy UI
+✔️ Mock API  
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Overview
 
-## Customize configuration
+![ex1](https://github.com/user-attachments/assets/caa94d20-fa33-4b72-bb84-92c8e1cca749)
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+![ex2](https://github.com/user-attachments/assets/eac83a9d-fc47-4cc5-8ca1-8a0fa046a9a6)
