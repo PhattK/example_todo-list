@@ -9,7 +9,7 @@ This project focuses on learning how to create todo-list with Vue framework, cov
 ✔️ Mock API  
 
 ## Deploy URL
-  https://sample-todo-list.vercel.app/
+  https://example-todo-list.vercel.app
   
 ## Overview
 
