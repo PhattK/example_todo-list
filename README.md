@@ -1,4 +1,4 @@
-# Sample_Todo-List
+# Example_Todo-List
 This project focuses on learning how to create todo-list with Vue framework, covering basic design with Daisy UI.
 
 ## Tech Stack
